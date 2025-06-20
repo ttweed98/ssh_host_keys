@@ -2,7 +2,7 @@
 
 ## Overview
 
-The `ssh.sh` script automatically adds SSH host keys for all SDWAN routers in your Ansible inventory. This prevents SSH host key verification prompts and connection failures when running the SDWAN VRF analysis playbook.
+The `ssh.sh` script automatically adds SSH host keys for all network devices in your Ansible inventory. This prevents SSH host key verification prompts and connection failures when running playbooks.
 
 ## Purpose
 
